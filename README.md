@@ -19,3 +19,16 @@ Cd into the project directory and type in the following:
 
 
 
+# App in use
+![Screen showing what info to enter into cloud database](https://github.com/AveekD/eSHARE/blob/master/MockLogIn.jpeg)
+
+![Map of nearby users](https://github.com/AveekD/eSHARE/blob/master/MapDisplay.jpeg)
+
+![Directions to nearby users](https://github.com/AveekD/eSHARE/blob/master/Routing.jpeg)
+
+# Backend Database
+![Amazon Dynamo DB databse](https://github.com/AveekD/eSHARE/blob/master/Database.png)
+
+
+# User process using application
+![Mock of what future development of the app will look like](https://github.com/AveekD/eSHARE/blob/master/MockUsage.jpeg)
