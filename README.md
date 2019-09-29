@@ -5,8 +5,8 @@ Uber-like mobile application powered by AWS and XCode that allows electric vehic
 Clone the repository using git clone https://github.com/AveekD/CodeGreen
 
 # Prerequisites
-Have an AWS developer account
-Have XCode version 10.0 or higher
+* Have an AWS developer account
+* Have XCode version 10.0 or higher
 
 # Setup AWS Cloud
 Cd into the project directory and type in the following:
